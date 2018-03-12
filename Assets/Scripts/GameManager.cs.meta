@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9dd472135dff99b4fb982c48b620d11f
+timeCreated: 1482147815
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerBall: {fileID: 1000013244425284, guid: b69e1a36b87648244a1a77b437fa503c,
+      type: 2}
+  - MainMenu: {fileID: 1000010422068624, guid: dc6d30466204a4745bee171d430b51db, type: 2}
+  - LevelVictoryMenu: {fileID: 1000012651987748, guid: 07bba589f13f9d042a258cc03e350347,
+      type: 2}
+  - GameVictoryMenu: {fileID: 1000012453331806, guid: d4ac3abba71613f4886843c14f4c1e9c,
+      type: 2}
+  - DeathMenu: {fileID: 1000013807294062, guid: 0d96534621efc354e8f5bc3b91bfd728,
+      type: 2}
+  executionOrder: -100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
